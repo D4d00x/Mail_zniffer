@@ -11,7 +11,7 @@ Mail Sniffer is a Python script that uses Kamene library for packet sniffing to 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/mail-sniffer.git
+git clone https://github.com/D4d00x/mail-sniffer.git
 
 2. Navigate to the project directory:
 
